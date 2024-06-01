@@ -23,7 +23,7 @@ logs:
 presence:
   activities:
     - state: "「収史」で働く"
-      emoji: 1245794350315864084
+      emoji: ":wing:"
       type: 4    
   interval: 20
   status: dnd
