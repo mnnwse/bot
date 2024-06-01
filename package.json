@@ -43,7 +43,7 @@
 	},
 	"homepage": "https://discordtickets.app",
 	"engines": {
-		"node": ">=18"
+		"node": "18.18.0"
 	},
 	"dependencies": {
 		"@discord-tickets/settings": "^2.2.3",
