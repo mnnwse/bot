@@ -22,14 +22,11 @@ logs:
   level: info
 presence:
   activities:
-    - name: /new
-    - name: with {totalTickets} tickets
-    - name: "{openTickets} tickets"
-      type: 3
-    - name: "{avgResponseTime} response time"
-      type: 3
+    - state: "「収史」で働く"
+      emoji: 1245794350315864084
+      type: 4    
   interval: 20
-  status: online
+  status: dnd
 stats: true
 templates:
   transcript: transcript.md
