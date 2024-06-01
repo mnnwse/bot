@@ -22,10 +22,8 @@ logs:
   level: info
 presence:
   activities:
-    - state: "「収史」で働く"
-      emoji: "🪽"
-      type: 4    
-  interval: 20
+    - name: "「収史」で働く"
+      type: 4
   status: dnd
 stats: true
 templates:
