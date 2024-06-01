@@ -24,7 +24,7 @@ presence:
   activities:
     - name: "「収史」で働く"
       type: 4
-  status: dnd
+  status: online
 stats: true
 templates:
   transcript: transcript.md
